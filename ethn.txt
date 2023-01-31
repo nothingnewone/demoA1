@@ -1,7 +1,7 @@
 {
-	"adstatus": false,
+	"adstatus": true,
 	"specificad": false,
-	"alternatead": false,
+	"alternatead": true,
 	"alternate_data": {
 		"Appopen": "Admob",
 		"Interstrial": "Facebook",
@@ -22,10 +22,10 @@
 		"FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 	},
 	"Applovin": {
-		"Applovin_adstatus": false,
-		"Applovin_Interstrial": "",
-		"Applovin_Native": "",
-		"Applovin_Banner": ""
+		"Applovin_adstatus": true,
+		"Applovin_Interstrial": "e06e0046849c32f0",
+		"Applovin_Native": "81af24ccc7ada856",
+		"Applovin_Banner": "51177c5caa4cb837"
 	},
 	"AdCounter": {
 		"Inter_count": 0,
