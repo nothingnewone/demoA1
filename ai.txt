@@ -1,6 +1,12 @@
-1. 
-
-3 option -
-	i-chatgpt - condition(1 day - ans)
-	ii-dall-e - (same )
-	iii-webview
+{
+  "adstatus":true,
+  "data":{
+    "Appopen":"ca-app-pub-3940256099942544/3419835294",
+    "Interstrial":"ca-app-pub-3940256099942544/1033173712",
+    "Native":"ca-app-pub-3940256099942544/2247696110",
+    "Banner":"ca-app-pub-3940256099942544/6300978111"
+  },
+  "BackAd":true,
+  "onResumeOpenAd":true,
+  "KeyAI": "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"
+}
