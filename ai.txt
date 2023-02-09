@@ -8,5 +8,5 @@
   },
   "BackAd":true,
   "onResumeOpenAd":true,
-  "KeyAI": "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"
+  "KeyAI": "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"
 }
