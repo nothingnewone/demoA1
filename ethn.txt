@@ -28,9 +28,9 @@
 		"Applovin_Banner": "51177c5caa4cb837"
 	},
 	"AdCounter": {
-		"Inter_count": 0,
-		"Native_Count": 0,
-		"Banner_Count": 0,
+		"Inter_count": 8,
+		"Native_Count": 8,
+		"Banner_Count": 8,
 		"Back_Inter_count":0,
 		"onResumeOpenAd": true
 	},
