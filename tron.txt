@@ -1,0 +1,6 @@
+1. 
+
+3 option -
+	i-chatgpt - condition(1 day - ans)
+	ii-dall-e - (same )
+	iii-webview
