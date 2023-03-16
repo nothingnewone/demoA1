@@ -10,10 +10,10 @@
 	},
 	"Admob": {
 		"Admob_adstatus": true,
-		"Admob_Appopen": "/22349270898,22827158175/6a6e1a44-3454-42a7-8a1a-c8d815021829/c0abf96f-2191-421a-8cfc-a60993f88217/c0abf96f-2191-421a-8cfc-a60993f88217-last",
-		"Admob_Interstrial": "/22349270898,22827158175/6a6e1a44-3454-42a7-8a1a-c8d815021829/853742ca-5816-4e53-a6fb-1a970702bed1/853742ca-5816-4e53-a6fb-1a970702bed1-last",
-		"Admob_Native": "/22349270898,22827158175/6a6e1a44-3454-42a7-8a1a-c8d815021829/1bc386af-45b6-46ae-8cb7-64d867adfcea/1bc386af-45b6-46ae-8cb7-64d867adfcea-last",
-		"Admob_Banner": "/22349270898,22827158175/6a6e1a44-3454-42a7-8a1a-c8d815021829/0a759792-d36a-461a-93c0-b30198ade681/0a759792-d36a-461a-93c0-b30198ade681-last"
+		"Admob_Appopen": "/22106840220,22727294026/ca-mb-app-pub-9063486391387983-tag/TRX_Cloud_Mining_Earn_Tron_WE_O",
+		"Admob_Interstrial": "/22106840220,22727294026/ca-mb-app-pub-9063486391387983-tag/TRX_Cloud_Mining_Earn_Tron_WE_I",
+		"Admob_Native": "/22106840220,22727294026/ca-mb-app-pub-9063486391387983-tag/TRX_Cloud_Mining_Earn_Tron_WE_N",
+		"Admob_Banner": "/22106840220,22727294026/ca-mb-app-pub-9063486391387983-tag/TRX_Cloud_Mining_Earn_Tron_WE_B"
 	},
 	"Facebook": {
 		"FB_adstatus": false,
