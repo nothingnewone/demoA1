@@ -10,10 +10,10 @@
 	},
 	"Admob": {
 		"Admob_adstatus": true,
-		"Admob_Appopen": "/22106840220,22727294026/ca-mb-app-pub-9063486391387983-tag/TRX_Cloud_Mining_Earn_Tron_WE_O",
-		"Admob_Interstrial": "/22106840220,22727294026/ca-mb-app-pub-9063486391387983-tag/TRX_Cloud_Mining_Earn_Tron_WE_I",
-		"Admob_Native": "/22106840220,22727294026/ca-mb-app-pub-9063486391387983-tag/TRX_Cloud_Mining_Earn_Tron_WE_N",
-		"Admob_Banner": "/22106840220,22727294026/ca-mb-app-pub-9063486391387983-tag/TRX_Cloud_Mining_Earn_Tron_WE_B"
+		"Admob_Appopen": "/22892076798/Tron_O",
+		"Admob_Interstrial": "/22892076798/Tron_I",
+		"Admob_Native": "/22892076798/Tron_N",
+		"Admob_Banner": "/22892076798/Tron_B"
 	},
 	"Facebook": {
 		"FB_adstatus": false,
@@ -28,17 +28,17 @@
 		"Applovin_Banner": ""
 	},
 	"AdCounter": {
-		"Inter_count": 8,
-		"Native_Count": 8,
-		"Banner_Count": 8,
-		"Back_Inter_count":8,
-		"onResumeOpenAd": false
+		"Inter_count": 0,
+		"Native_Count": 0,
+		"Banner_Count": 0,
+		"Back_Inter_count":0,
+		"onResumeOpenAd": true
 	},
 	"NativeBlink": false,
 	"NativeBanner": false,
 	"AdDialog": true,
 	"BackAd": false,
 	"BackAdPlatform": "Facebook",
-	"ExtraScreen": "0",
+	"ExtraScreen": "3",
 	"PrivacyPolicy": ""
 }
